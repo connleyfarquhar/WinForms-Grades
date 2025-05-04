@@ -1,0 +1,33 @@
+D:\Learn\Forms\Grades (WinForms)\bin\Debug\Grades (WinForms).exe.config
+D:\Learn\Forms\Grades (WinForms)\bin\Debug\Grades (WinForms).exe
+D:\Learn\Forms\Grades (WinForms)\bin\Debug\Grades (WinForms).pdb
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.AssemblyReference.cache
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades__WinForms_.Form1.resources
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades__WinForms_.Properties.Resources.resources
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades__WinForms_.SummaryForm.resources
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.GenerateResource.cache
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.CoreCompileInputs.cache
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades (WinForms).exe
+D:\Learn\Forms\Grades (WinForms)\obj\Debug\Grades (WinForms).pdb
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).exe.config
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).exe
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).pdb
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.AssemblyReference.cache
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.Form1.resources
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.Properties.Resources.resources
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.SummaryForm.resources
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.GenerateResource.cache
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).exe
+C:\Users\1632593\OneDrive - Dundee and Angus College\College\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).pdb
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).exe.config
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).exe
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\bin\Debug\Grades (WinForms).pdb
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.AssemblyReference.cache
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.Form1.resources
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.Properties.Resources.resources
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades__WinForms_.SummaryForm.resources
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.GenerateResource.cache
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).csproj.CoreCompileInputs.cache
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).exe
+C:\Users\connl\Downloads\OneDrive_2024-05-01\Grades (WinForms)\Grades (WinForms)\obj\Debug\Grades (WinForms).pdb
